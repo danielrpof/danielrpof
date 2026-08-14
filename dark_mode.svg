@@ -17,45 +17,31 @@ text, tspan {white-space: pre;}
 </style>
 <rect width="985px" height="530px" fill="#161b22" rx="15"/>
 <text x="15" y="30" fill="#c9d1d9" class="ascii">
-<tspan x="15" y="30">                                                       </tspan>
-<tspan x="15" y="50"> ..................................................... </tspan>
-<tspan x="15" y="70"> ........................        .      .............. </tspan>
-<tspan x="15" y="90"> .........     ...        :    +      :   ............ </tspan>
-<tspan x="15" y="110"> ........   +:      .:$;$$$$&amp;&amp;x&amp;&amp;&amp;&amp; ;&amp;&amp;;&amp;    ......... </tspan>
-<tspan x="15" y="130"> .......  &amp; :&amp;&amp;+$&amp;&amp;&amp;&amp;&amp;&amp; :.+X&amp;&amp;&amp;x;&amp;&amp;&amp;X&amp;&amp;+$&amp;;&amp;    ...... </tspan>
-<tspan x="15" y="150"> .....    +X&amp;++$X.$;+ &amp;&amp;&amp;&amp;&amp;x:+::+:x+$.;X.&amp;&amp;; &amp;: ...... </tspan>
-<tspan x="15" y="170"> ....   &amp;&amp;&amp;$X;&amp;&amp;:&amp;&amp;&amp;$&amp;$ :&amp;xX&amp;&amp;&amp;+$$+$x&amp;X&amp;$.+$ &amp;&amp;    ... </tspan>
-<tspan x="15" y="190"> .    &amp;  ;.$&amp;X&amp;  &amp;$X:$$&amp;&amp;$&amp;&amp;&amp;+x&amp;&amp;&amp;$$+X&amp;&amp;&amp;XX$X;&amp;+&amp;&amp;  .. </tspan>
-<tspan x="15" y="210"> . $  &amp;&amp;&amp;&amp;&amp;. X&amp;X&amp;$$&amp;&amp;&amp;:.+&amp;xx&amp;&amp;&amp;XX+;&amp;+Xx.&amp;&amp;&amp;&amp;&amp;+.X &amp;  .. </tspan>
-<tspan x="15" y="230">   x&amp;&amp;&amp;;&amp;X X &amp;&amp;$&amp;:&amp;X.&amp;:&amp;&amp;:&amp;:&amp;&amp;: X&amp;$&amp;$&amp;&amp;;+; &amp;&amp;$$&amp;$&amp;:    </tspan>
-<tspan x="15" y="250">  &amp;&amp;&amp; :&amp;&amp;$X&amp;&amp;&amp;:&amp;&amp;&amp;&amp; :&amp;$;&amp;&amp;X&amp;&amp;&amp;+:&amp;&amp;:&amp;$&amp;&amp;X&amp;&amp;+&amp;+$&amp;&amp;&amp;&amp;&amp;&amp;   </tspan>
-<tspan x="15" y="270">   &amp;&amp;&amp;&amp;  &amp; &amp;&amp;&amp; &amp;&amp;    &amp;;;x+&amp;&amp;&amp;  .&amp;&amp;   +$X&amp;&amp;&amp;&amp;&amp;xX$$&amp;;&amp;x  </tspan>
-<tspan x="15" y="290"> :&amp;&amp;&amp;$&amp;&amp;&amp;&amp;$&amp;$+&amp;&amp;&amp;&amp;&amp;&amp;&amp;;  :   .;&amp; $&amp;$&amp;&amp;$$+$: x&amp;xXX+X&amp;&amp;   </tspan>
-<tspan x="15" y="310"> $&amp; X&amp;X&amp;$X               ..  X&amp;: :      . &amp;$+&amp;x&amp;&amp;    . </tspan>
-<tspan x="15" y="330">   : &amp;&amp;&amp;&amp;+                 .            .:+&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp; . </tspan>
-<tspan x="15" y="350">  ;&amp;&amp;&amp;&amp;&amp;+     X&amp;$$$$X+    .:.                ;$&amp;&amp;&amp;   . </tspan>
-<tspan x="15" y="370">   ; &amp;$&amp;&amp;   XXxx$&amp;&amp;&amp;&amp;&amp;&amp;$+;;;;:++X&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;$;  X&amp;&amp;&amp;&amp;  .. </tspan>
-<tspan x="15" y="390"> .   &amp;&amp;&amp;&amp;  .  ;;   :+.  :+;;+xx;::.       :+ X&amp;&amp;$   .. </tspan>
-<tspan x="15" y="410">      :   . ;X;;&amp;&amp;&amp;&amp;X&amp;&amp;X;.   .+X$&amp;$X&amp;X$++x   :     ... </tspan>
-<tspan x="15" y="430">  ;   X:  . x+.  &amp;&amp; x&amp;;;;..:::::+&amp;;X&amp;&amp;x &amp;&amp;X     X      </tspan>
-<tspan x="15" y="450">  &amp;&amp;  X X .   :X+;;XX;..   . ::  :xx;:;+.     X + +&amp;&amp;x </tspan>
-<tspan x="15" y="470">    X&amp; X. ...            .   :.      ...    ..XX :&amp;;:x </tspan>
-<tspan x="15" y="490">;&amp;..;+ X  ....:+;:.     .. :. :..   ..::....   X .X  + </tspan>
-<tspan x="15" y="510">:&amp;$ ;&amp; XX .... :   .:+x    :    ;;:::..:::.. .+x :&amp;$X&amp; </tspan>
-<tspan x="15" y="530">.&amp;&amp;&amp;&amp;&amp;    ....   :.:;+    .;;;   ;;::. .:  . +   &amp;&amp;$++ </tspan>
-<tspan x="15" y="550"> :$&amp;x&amp;     ... ::::;;+XX&amp;X .::XXX;;;:::..::  :  :$;  + </tspan>
-<tspan x="15" y="570">.&amp;&amp;$X&amp;&amp;+X: ... .:::      +XXX+:   ...::.:.: XX :;      </tspan>
-<tspan x="15" y="590"> +;;;$&amp;&amp;&amp;X . ..::   .:       .    .: .::::. &amp;&amp; .:;+;:; </tspan>
-<tspan x="15" y="610">x&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp; . ::.  ;:.   :.:. .++.    ..:.:: +  ; .:;;. </tspan>
-<tspan x="15" y="630">         &amp;  .:..:+xXXXXX$$$$X$$$$$$$Xx..::  .;+;;.  .: </tspan>
-<tspan x="15" y="650"> &amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;  ::::+X;:+: ..:;;    .:  :::::.+;   ..:::. </tspan>
-<tspan x="15" y="670"> XXXx+xX$&amp;&amp;X ::::.  ..:+XXXxxXXXX;   .::::.:...        </tspan>
-<tspan x="15" y="690"> XXXXXxx&amp;&amp;&amp;  ;. ::;:::::::;;+;:..::::;;.     ...+$$&amp;$X </tspan>
-<tspan x="15" y="710"> XXXXX&amp;&amp;&amp;    .: .:+;:... .:.   ::::.:::;X$X  ..        </tspan>
-<tspan x="15" y="730"> &amp;&amp;&amp;&amp;&amp;&amp;   . .:;+.  :  .     .     :.:+x.  :. ......... </tspan>
-<tspan x="15" y="750"> X      ... :::;;++  .:;:::;;;;;.:;;+x:    X  ........ </tspan>
-<tspan x="15" y="770">      ...  .::::;;;;+;;::;:::::;:XX;::: .  $  ........ </tspan>
-<tspan x="15" y="790"> .x                                        :           </tspan>
+<tspan x="15" y="30">                                     </tspan>
+<tspan x="15" y="50">                                     </tspan>
+<tspan x="15" y="70">                 ::.X; : x;          </tspan>
+<tspan x="15" y="90">       +X&amp;XX$&amp;&amp;&amp;$$$&amp;&amp;$&amp;&amp;$$X&amp;X:       </tspan>
+<tspan x="15" y="110">     :+XX+x+&amp;$X&amp;&amp;&amp;X$XxXXXXXX$x&amp;+;    </tspan>
+<tspan x="15" y="130">    $;X$X$XX&amp;$XX$$&amp;&amp;&amp;$$$X&amp;&amp;&amp;$$Xx:: : </tspan>
+<tspan x="15" y="150">  &amp;;&amp;&amp;&amp;+;&amp;&amp;&amp;$&amp;XX$XX&amp;XXX$$X+$$&amp;X$X&amp;   </tspan>
+<tspan x="15" y="170">  &amp;X+XX$&amp;&amp;X&amp;: $X$&amp;&amp;&amp;+XXx$&amp;&amp;&amp;&amp;$$$&amp;&amp;&amp;. </tspan>
+<tspan x="15" y="190">  &amp;X$$&amp;&amp;+&amp;&amp;&amp;+&amp;&amp;::::X:x&amp;$&amp;$X&amp;X$$XX&amp;&amp;X </tspan>
+<tspan x="15" y="210"> &amp;+&amp;&amp;&amp;x            ;X.      &amp;&amp;&amp;&amp;&amp;++  </tspan>
+<tspan x="15" y="230"> .&amp;&amp;&amp;&amp;    ++;+:.              +&amp;&amp;&amp;   </tspan>
+<tspan x="15" y="250">   &amp;&amp;&amp;  ;;::;+xx+;;;+X&amp;&amp;&amp;&amp;&amp;&amp;$ X&amp;&amp;$   </tspan>
+<tspan x="15" y="270">    $   ;+&amp;&amp;&amp;&amp;$$;  .+XXX$X.;. . :    </tspan>
+<tspan x="15" y="290"> &amp;: X    .:;+x+;.  ..:+XX+;;:   +:$$ </tspan>
+<tspan x="15" y="310">   X.x             .    ..     $:+XX </tspan>
+<tspan x="15" y="330">XX.x $   ::. .:   .  .:......  + ;:; </tspan>
+<tspan x="15" y="350">;&amp;&amp;&amp;       .:;:.: ::::::....  :  xX+ </tspan>
+<tspan x="15" y="370">;$$&amp;X:;   .....;xXXx;:...:....+.:;.  </tspan>
+<tspan x="15" y="390">+&amp;$&amp;&amp;&amp;$  .                ...;$;:::: </tspan>
+<tspan x="15" y="410">      &amp;  :.:X$$&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;$:.:..::::.: </tspan>
+<tspan x="15" y="430">:$$X$$&amp;x :.::::;;;;;;::  .:::;:....  </tspan>
+<tspan x="15" y="450">:XXX$&amp;&amp;$ : :::.::;;;;::.:::::  .;;X&amp; </tspan>
+<tspan x="15" y="470">;&amp;&amp;&amp;&amp;    :..:. .       .:;: $        </tspan>
+<tspan x="15" y="490">        ::;;:..::::::::;++   X       </tspan>
+<tspan x="15" y="510">                                     </tspan>
 </text>
 <text x="390" y="30" fill="#c9d1d9">
 <tspan x="390" y="30">danielrpof</tspan> -———————————————————————————————————————————-—-
